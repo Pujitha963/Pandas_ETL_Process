@@ -15,4 +15,4 @@ Created a database (pandas_practice) having a table student as below
 1. Created configuration file (config.py) to have the details of mysql database.
 2. Extracted student data from student table in mysql using sqlalchemy.
 3. Transformed data of students - renamed the columns id -> student_id and name -> student_name.
-4. Loaded the trasformed data into csv file.
+4. Loaded the transformed data into csv file.
