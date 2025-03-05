@@ -4,5 +4,5 @@ DB_CONFIG = {
     "DB_PORT" : "3306",
     "DB_NAME" : "pandas_practice",
     "DB_USER" : "root",
-    "DB_PASS" : "SQL%40Learn123"
+    "DB_PASS" : "password" #replace with your password
 }
